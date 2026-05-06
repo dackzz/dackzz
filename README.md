@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=22&pause=1000&color=B8BB26AC&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" /></a>-->
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=b8bb26&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;UHCL+CS%2C+Graduating+December+2023" alt="Typing SVG" class="center" style="text-align: center;"/></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=b8bb26&center=true&vCenter=true&width=435&lines=Welcome+.+.+.+happy+you're+here!;Compiling+Errors%2C+Debugging+Typos;FAMAF+UNC" alt="Typing SVG" class="center" style="text-align: center;"/></a>
 </p> 
 
 > <i>“Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.”</i> – Edger W. Dijsktra
@@ -77,7 +77,6 @@ misc_interests: ["cooking", "music", "mathematics", "movies"]
     <td>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/mysql-%23005F87.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_SQL-008AD7?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     </td>
@@ -94,7 +93,6 @@ misc_interests: ["cooking", "music", "mathematics", "movies"]
   <tr>
     <td><g-emoji alias="joystick">🕹️</g-emoji> Misc</td>
     <td>
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
       <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
       <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
       <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
@@ -112,3 +110,4 @@ misc_interests: ["cooking", "music", "mathematics", "movies"]
 ```
 Credit: [Patricio-Tobias-Rivadeneira](github.com/dackzz/)
 Last Edited on: 06/05/2026
+``` 
