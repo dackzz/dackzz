@@ -34,7 +34,7 @@
 Hello! I'm a computer science student at FAMAF, UNC. I love to challenge myself and find creative ways to solve complex problems. I like making software that provides value to other people and the process of making/learning new and novel things. Whenever I have free time I like playing videogames, watching movies and series, listening to music, and learning something new! My technical interests include software development, cybersecurity, Linux, web dev and more! :) 
 </p> 
 
-<img align="right"  width="200" height="200" src="https://media1.tenor.com/m/EkMbBzgUYrMAAAAC/roki-sue%C3%B1ito.gif">
+<img align="right"  width="225" height="225" src="https://media1.tenor.com/m/EkMbBzgUYrMAAAAC/roki-sue%C3%B1ito.gif">
 
 ```yaml
 name: Patricio Tobias Rivadeneira
