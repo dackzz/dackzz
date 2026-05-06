@@ -108,6 +108,6 @@ misc_interests: ["cooking", "music", "mathematics", "movies"]
 
 
 ```
-<!-- Credit: [Patricio-Tobias-Rivadeneira](github.com/dackzz/) -->
-<!-- Last Edited on: 06/05/2026 -->
+[//]: # (Credit: [Patricio-Tobias-Rivadeneira]\(github.com/dackzz/\))
+[//]: # (Last Edited on: 06/05/2026)
 
