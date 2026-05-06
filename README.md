@@ -78,7 +78,7 @@ misc_interests: ["cooking", "music", "mathematics", "movies"]
       <img src="https://img.shields.io/badge/mysql-%23005F87.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-	  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style-for-the-badge&logo=bitbucket&logoColor=fff" />
+	  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=fff" />
     </td>
   </tr>
   <tr>
