@@ -101,9 +101,7 @@ misc_interests: ["cooking", "music", "mathematics", "movies"]
   </tr>
 </table>
 
-|There is always something new to learn||
-|:-:|:-:|
-|![There is always something to learn](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|
+|!(https://64.media.tumblr.com/f7f0e4d045cc49477a85cf0aba4a7117/e0a957b30f4c41d1-8b/s1280x1920/fdd0a396b23a96332087335bb6861e687bb534b4.gifv)|
 
 
 [//]: # (Credit: [Patricio-Tobias-Rivadeneira]\(github.com/dackzz/\))
